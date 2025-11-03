@@ -1,3 +1,3 @@
 print("hello and welcome to bugspotter")
 print("Testing version control system")
-print("Adding a new line")
+print("Pushing my code into dev branch")
